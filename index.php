@@ -11,8 +11,8 @@
         <div class="container">
             <div class="row">
                 <div class="col-12">
-                    <h1>Süvöltős Csaba</h1>
-                    <h2>CBGQSY</h2>
+                    <h1>Divinyi Balázs</h1>
+                    <h2>OHU337</h2>
                     <h3>Hétfő 12 órási csoport</h3>
                 </div>
             </div>
